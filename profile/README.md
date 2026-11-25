@@ -1,40 +1,39 @@
-# Utilities for the COSMIC™ Desktop
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cosmic-utils/cosmic-utils.github.io/main/static/cosmic-orbit.svg" width="300" alt="COSMIC Orbit logo">
+</div>
 
-**This is not an official COSMIC™ Organization from System76.** This is a community-driven organization for hosting applications and applets for the COSMIC™ Desktop.
+<h1 align="center">COSMIC Orbit</h1>
 
----
+<p align="center"><strong>Taking COSMIC™ further, together</strong></p>
+<p align="center">
+  COSMIC Orbit brings together the apps, applets, and tools that extend the COSMIC™ Desktop. Explore what independent developers are building, find something new for your desktop, or launch a project of your own.
+</p>
 
-## 🤝 Getting an Invitation to the Organization
+<p align="center">
+  <a href="https://cosmic-utils.org/">Explore the project catalog</a> ·
+  <a href="https://cosmic-utils.org/contribute/">Submit a project</a> ·
+  <a href="https://chat.pop-os.org/pop-os/channels/cosmic-utils">Join the conversation on Mattermost</a>
+</p>
 
-Contact the organization maintainers in the [Mattermost channel](https://chat.pop-os.org/pop-os/channels/cosmic-utils) and request an invitation. If you have an existing COSMIC project you'd like to include, you're welcome to transfer it to the organization.
+## Contribute
 
-Active contributors who show commitment to the Utilities for the COSMIC™ Desktop ecosystem are welcome to join the organization. Membership allows you to:
-- Create new repositories under the cosmic-utils organization
-- Have write access to repositories you maintain
-- Participate in organization-wide discussions and decisions
-- Help shape the future of COSMIC utilities
+Browse the catalog to find a project you’d like to help with. Each project links to its source repository, where you can report issues, suggest improvements, or contribute code. If you maintain a COSMIC project, you can submit it to the catalog for review. [Browse projects](https://cosmic-utils.org/) · [Submit a project](https://cosmic-utils.org/contribute/)
 
-### Creating New Projects
+## Build for COSMIC
 
-Want to create something new for COSMIC? Use the official templates:
+System76 provides starter templates for both kinds of projects:
 
-- **[COSMIC App Template](https://github.com/pop-os/cosmic-app-template)** for applications
-- **[COSMIC Applet Template](https://github.com/pop-os/cosmic-applet-template)** for panel/dock applets
+- [COSMIC App Template](https://github.com/pop-os/cosmic-app-template) for standalone applications
+- [COSMIC Applet Template](https://github.com/pop-os/cosmic-applet-template) for panel and dock applets
 
----
+## Join the organization
 
-## 🌐 Links
+Active contributors can request an invitation from the maintainers. If you already maintain a COSMIC project and want to transfer it to the organization, get in touch to discuss the move. [Contact the maintainers on Mattermost](https://chat.pop-os.org/pop-os/channels/cosmic-utils)
 
-- **Website:** [https://cosmic-utils.github.io/](https://cosmic-utils.github.io/)
-- **GitHub Organization:** [https://github.com/cosmic-utils](https://github.com/cosmic-utils)
-- **COSMIC Desktop (System76):** [https://github.com/pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
+Members can create repositories in the organization, receive write access to projects they maintain, and take part in organization-wide discussions and decisions.
 
----
+## Licensing and affiliation
 
-## 📝 License
+Projects are open source and use their own licenses. See each repository’s `LICENSE` file for details.
 
-Projects in this organization use various open source licenses. Please check individual repositories for specific licensing information. Most projects use the **GNU General Public License v3.0** or **MIT License**.
-
----
-
-> COSMIC™ is a trademark of System76. This organization is a community initiative and is not officially affiliated with System76.
+COSMIC Orbit is an independent community initiative. COSMIC™ is a trademark of System76, Inc. [COSMIC Desktop source](https://github.com/pop-os/cosmic-epoch)
